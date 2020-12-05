@@ -1,10 +1,12 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+</head>
 
 <img align="center" src="github-banner@2x.jpg" alt="Hello World, I Am Starlight Romero" width="1080" />
 <h3 align="center">Full Stack Developer currently studying at Make School</h3>
 
 <p align="left">
-<i class="devicon-css3-plain"></i>
+  <i class="devicon-css3-plain"></i>
 </p>
 
 <!--START_SECTION:waka-->
