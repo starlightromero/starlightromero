@@ -51,10 +51,10 @@ Sunday       184 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 28 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-michael-thomas           1 hr 28 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
