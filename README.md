@@ -8,7 +8,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -62,7 +62,7 @@ No Activity Tracked This Week
 
 ```text
 JavaScript               26 repos            █████████░░░░░░░░░░░░░░░░   37.14% 
-Python                   24 repos            ████████░░░░░░░░░░░░░░░░░   34.29% 
+Python                   25 repos            █████████░░░░░░░░░░░░░░░░   35.71% 
 HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
 Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
 CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
