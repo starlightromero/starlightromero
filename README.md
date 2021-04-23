@@ -6,7 +6,7 @@
 ███████    ██    ██   ██ ██   ██ ███████ ██  ██████  ██   ██    ██ 
 ```
 
-### Full Stack Developer specializing in DevOps, currently studying at Make School
+### Intrigued and energized by digital privacy, blockchain, and automation pipelines, Starlight aims to develop systems that revolutionize the ways that companies and societies work.
 
 # How to Connect
 
