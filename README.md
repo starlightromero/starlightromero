@@ -6,7 +6,7 @@
 ███████    ██    ██   ██ ██   ██ ███████ ██  ██████  ██   ██    ██ 
 ```
 
-### Intrigued and energized by digital privacy, blockchain, and automation pipelines, Starlight aims to develop systems that revolutionize the ways that companies and societies work.
+### Intrigued and energized by digital privacy, infrastructure, and automation pipelines, Starlight aims to develop systems that revolutionize the ways that companies and societies work.
 
 # How to Connect
 
